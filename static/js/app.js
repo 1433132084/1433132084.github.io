@@ -14,7 +14,7 @@ var provinces = {
     "安徽": "anhui",
     "福建": "fujian",
     "江西": "jiangxi",
-    "山东": "shandong",
+    "山东5-10元": "shandong",
     "河南": "henan",
     "湖北": "hubei",
     "湖南": "hunan",
